@@ -38,7 +38,8 @@
   line-height: 28px; }
 
 .tag_box li i {
-  opacity: 0.9; }
+  opacity: 0.9; 
+}
 
 .tag_box.inline li {
   float: left; }
@@ -63,3 +64,17 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.title-link {
+  color:#000;
+  text-decoration: none;
+}
+
+.title-link:hover {
+  color:#555;
+  text-decoration: none;
+}
+
+.post > p {
+  margin-left:1em;
+}

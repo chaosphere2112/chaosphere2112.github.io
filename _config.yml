@@ -5,11 +5,13 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
+excerpt_separator: <!-- more -->
+
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : A Company Man
-tagline: Trials and Tribulations of an Enterprise Developer
+title : Sam B. Fries
+tagline: 
 author :
   name : Sam Fries
   email : samuelbfries@gmail.com

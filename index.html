@@ -1,0 +1,22 @@
+---
+layout: page
+title: Recent
+---
+{% include JB/setup %}
+
+<!-- The full content of the last N posts -->
+{% for post in site.posts %}
+	<div class="row">
+		<article class="col-xs-12 post">
+			<h3 class="title"><a class="title-link" href="{{post.url}}">{{post.title}}</a> <span class="date"><small>{{post.date | date_to_long_string }}</small></span></h3>
+				{{ post.excerpt | markdownify }}
+			<a class="more" href="{{post.url}}">Read More</a>
+		</article>
+	</div>
+	{% if forloop.last == false %}
+		<hr />
+	{% endif %}
+	{% if forloop.index == 5 %}
+		{% break %}
+	{% endif %}
+{% endfor %}
