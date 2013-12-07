@@ -78,3 +78,29 @@
 .post > p {
   margin-left:1em;
 }
+
+.content-area {
+  border-left:1px solid rgba(204, 204, 204, .33);
+}
+
+body {
+  border:10px solid #CCC;
+  padding-bottom:10px;
+  padding-top:10px;
+  min-height:100%;
+}
+
+html {
+  height:100%; /* needed for container min-height */
+}
+
+div#wrapper {
+
+  margin:0 auto; /* center, not in IE5 */
+  width:100%;
+  
+  height:auto !important; /* real browsers */
+  height:100%; /* IE6: treaded as min-height*/
+  min-height:100%; /* real browsers */
+
+}

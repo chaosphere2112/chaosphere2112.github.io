@@ -19,7 +19,7 @@ I drove over to the Westgate Badging Office. It wouldn't open for another few mi
 
 The door popped open, and we stepped inside. I walked up to the desk, handed over my ID, and received my fourth badge since I returned to Lawrence Livermore in June.
 
-##Orientation Day
+###Orientation Day
 
 I was sitting on a bench with two other men, orange packets clenched in our hands. The man I had talked to outside reached a hand over and said his name was John.
 
