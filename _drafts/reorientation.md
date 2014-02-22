@@ -55,10 +55,29 @@ The fourth guy showed up.
 
 "Sorry I'm late, I got stuck in traffic coming from Bay Point."
 
-"Oh, 680 south? Nasty road." I chimed in.
+"Oh, 680 south? Nasty road."
 
 "Yeah, it was that or take 4 east to Vasco."
 
 "Which wouldn't have been any better, let me assure you."
 
 His name was Thomas. He sat down next to me, and our orientation began.
+
+###Working at Lawrence Livermore
+
+I've been nominally been employed by Lawrence Livermore since 2011. I started in June, the day after Father's day. That was my first experience going through orientation. I came in bright and early, and arrived at the Badge Office at the same time as a couple dozen other interns. I got my temporary badge, and we all headed over to my first experience with the training center. I sat in a room with the other interns as a procession of people told us all about working for a nuclear laboratory. I got to watch a video featuring an ex-KGB officer telling us about how we were prime targets for recruitment by foreign nations. I learned about [ALARA][alara], beryllium, and how I now worked in a place where death, injury, and crippling disease were all a possibility, and isn't that just *great?*
+
+Well, something like that.
+
+Life at Lawrence Livermore is a curious thing. It's a square mile of offices, laboratories, and some of the smartest people around. The average age is [supposedly around 51][age], though that link points to a blog that's filled with people who pretty much have it out for the lab. There are two cafeterias on site. The food at them costs money, but it is *less* of a hassle than driving out of the lab, though not by a lot. I was amused to discover that Google has the whole complex mapped now, with what appear to be accurate streets and buildings.
+
+I work for the IT department (Techincally, ICS- Information & Communication Services). It's an odd place to be in a facility dedicated to scientific research. Our building is a wreck of a trailer; the HVAC is... unpredictable, to say the least, the ceiling tiles are crumbling, and the lights will fail randomly. There are minor rivalries, turf wars, bureaucratic nightmares, and despite all of that, I really enjoy working there. It's not about the work I do, the work the lab does, some sense of patriotism or anything like that; I think it's something about the atmosphere. It's laid back, and it's filled with smart, dedicated people.
+
+There's one other thing about the lab.
+
+It's one of the few places that I know of that still has the potential to provide that mythical beast, the "steady job". Everyone at the Lab has been employed there for a decade or more
+
+
+
+[alara]: http://www.nrc.gov/reading-rm/basic-ref/glossary/alara.html "As Low as Reasonably Achievable"
+[age]: http://llnlthetruestory.blogspot.com/2009/05/age-discrimination-lawsuit.html?showComment=1244082456908#c3212735276801720694 "A Probably Suspect Source"

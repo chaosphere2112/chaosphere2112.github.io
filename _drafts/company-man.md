@@ -19,7 +19,7 @@ I was pretty sure I knew what I was doing, and I was determined to become a vide
 
 Well, almost.
 
-First I had to come up with a ton of information for a background check. I had to come up with 5 references, 5 years of housing history, and 5 years of employment history. 
+First I had to come up with a pile of information for a background check. I had to come up with 5 references, 5 years of housing history, and 5 years of employment history; someone apparently has a thing for that number.
 
 My start date was in June; unfortunately, I had a slight issue. I was almost completely broke, and I had to find housing in the bay area, which is, at the best of times, a nontrivial feat (I'm fond of [this article by priceonomics][priceonomics]). I tried to hunt down a place to live, but the only place I found on my first sweep through was over-priced, and I wound up bailing on renting there (despite my parents very kindly loaning me some money to make the security deposit). I ended up moving out of Chico the weekend of Father's Day, 2011, and started work on June 20th, and I was living out of my future in-laws' house.
 
