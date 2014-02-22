@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Blog
+title: About Me
 ---
 {% include JB/setup %}
 
-<!-- The full content of the last N posts -->
-{% for post in site.posts %}
-	<div class="row">
-		<article class="col-xs-12 post">
-			<h3 class="title"><a class="title-link" href="{{post.url}}">{{post.title}}</a> <span class="date"><small>{{post.date | date_to_long_string }}</small></span></h3>
-				{{ post.excerpt | markdownify }}
-			<a class="more" href="{{post.url}}">Read More</a>
-		</article>
-	</div>
-	{% if forloop.last == false %}
-		<hr />
-	{% endif %}
-	{% if forloop.index == 5 %}
-		{% break %}
-	{% endif %}
-{% endfor %}
+<h3>Things people have paid me for</h3>
+<ul>
+	<li>Programming iOS Apps</li>
+	<li>Building embedded web stuff for iOS Apps</li>
+	<li>Converting tons of cruddy HTML into structured data</li>
+	<li>Writing PHP</li>
+	<li>Fixing other peoples' PHP</li>
+	<li>Fixing other peoples' JavaScript</li>
+	<li>Fixing CSSpaghetti</li>
+	<li>Playing music</li>
+</ul>
+
+<h3>Things I'm interested in</h3>
+<ul>
+	<li>Golang</li>
+	<li>Python concurrency patterns</li>
+	<li>API Client Design</li>
+</ul>
