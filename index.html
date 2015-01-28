@@ -1,26 +1,23 @@
 ---
-layout: page
-title: About Me
+layout: default
 ---
-{% include JB/setup %}
 
-<h3>Things people have paid me for</h3>
-<ul>
-	<li>Programming iOS Apps</li>
-	<li>Building embedded web stuff for iOS Apps</li>
-	<li>Converting tons of malformed HTML into structured data</li>
-	<li>Writing PHP</li>
-	<li>Writing Python</li>
-	<li><a href="https://drupal.org/user/2669639/track">Fixing other peoples' PHP</a></li>
-	<li><a href="https://github.com/jdewit/bootstrap-timepicker/pull/138">Making other peoples' JavaScript do what we want it to</a></li>
-	<li>Fixing CSSpaghetti</li>
-	<li>Playing music</li>
-</ul>
+<div class="home">
 
-<h3>Things I'm interested in</h3>
-<ul>
-	<li>Golang</li>
-	<li>Distributed Systems</li>
-	<li>Python concurrency patterns</li>
-	<li>API Client Design</li>
-</ul>
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
