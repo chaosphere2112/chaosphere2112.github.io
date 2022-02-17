@@ -30,7 +30,7 @@ Which… is directly counter to my stated goal of getting 100 miles a week.
 
 ## The Opportunity Cost of an OKR
 
-*O*bjectives and *K*ey *R*esults are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are measurable (which indicates whether or not you were successful).
+*O*bjectives and *K*ey *R*esults are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are defined in terms of one or more Metrics (making success of your KR a measurable value).
 
 The problem with most (all?) metrics is that they *usually measure more than one thing* and maximizing one metric may mean *sacrificing other metrics you care about*.
 
@@ -46,10 +46,10 @@ This is usually fine! But it does come with a real opportunity cost. Good-to-gre
 
 KR metrics should be:
 
-  - A good proxy for your objective
+  - A good proxy measure
   - Easy to measure
-  - Not overly influenced by outside forces
-  - Easier to accomplish the more you do them
+  - Self-Determined
+  - Easier with Practice
   - Simple to understand
 
 There's a lot going on there. Let's break those down a bit.
@@ -67,7 +67,7 @@ You can use multiple KRs per Objective, so in theory we could use multiple goals
 
 Mileage is a strong correlate for the "Sustainable Exercise Habit" half, but doesn't work so well for the "meaningful improvements". We can see from the second ride above that we can be more efficient about calorie-burning by doing shorter rides that are more intense. Calories burned (technically, broken into something like "X rides that burn Y calories") would be a great metric from a proxy standpoint, but it has more problems that we'll cover later.
 
-I've seen Search-wide OKRs fail due to poor choice of proxy measures. By picking something that you can fulfill by doing things that are easy (low-speed bike rides, e.g.), you make the optimal strategy hurt the actual objective by feeling like you're making real progress while, _ahem_, spinning your wheels.
+I've seen Search-wide OKRs fail due to poor choice of proxy measures. By picking something that you can fulfill by doing things that are easy (low-speed bike rides, e.g.), you make the optimal strategy hurt the actual objective by feeling like you're making real progress while, _ahem_, spinning your wheels. In the extreme, a badly correlated proxy metric will make the opportunity cost of your KR be basically all of the valid strategies for actually achieving your goal.
 
 ### Easy to Measure
 
@@ -75,23 +75,25 @@ Reliable measurements are important. Like, really important. If you have a massi
 
 Mileage is a great metric from an "ease of measurement" standpoint. It's got a simple number (how far did you ride) and tracking is done by a cell phone with high accuracy (thanks, GPS!). Calories burned isn't as good, here; it is inherently an estimate. Strava's estimate of calories is based on your weight, the distance traveled, the amount of time you travel, and how much climbing you do. More accurate measurements can be had (heart rate monitors, e.g., would help a bit and are more accurate calorie predictions), but they require additional tools and are still estimates.
 
-Metrics that are hard to measure, hard to calculate, or poorly defined (leaving wiggle room for redefining success down the road) are problematic. One big challenge my team faced was our Search-level OKR was pretty hard to calculate, and no other team knew how to do so. This made it challenging to make progress on it, because of the next bullet...
+Metrics that are hard to measure, hard to calculate, or poorly defined (leaving wiggle room for redefining success down the road) are problematic. One big challenge my team faced was our Search-level OKR was pretty hard to calculate, and no other team knew how to do so. This made it challenging to make progress on it; more on this in the next section. Using hard-to-measure metrics decreases the frequency that you can check in on your progress; the opportunity cost here is in not being able to steer the ship if things start to go awry.
 
-### Not Overly Influenced by Outside Forces
+### Self-Determined
 
-It _sucks_ to have a KR that is controlled by forces outside your control. By setting things up like this, you are basically guaranteeing burnout and superheroics on the team if they're trying to make it happen.
+It _sucks_ to have a KR that is influenced by external forces.
+
+Some metrics are amazing proxies for what you're trying to do, but they're heavily influenced by things outside your control. These forces could be other companies, other teams, or just other people inside your organization; if they're not aligned and not aware of what you're trying to do, they can inadvertently stomp on your work in a bad way.
 
 Speed would be a great example of a metric that would be overly influenced by outside forces. Wind, climbing, traffic, and more all prevent you from being able to ride fast. If I was setting my goal in terms of "ride X miles at Y miles-per-hour", I would be truly set up for failure.
 
-My team's OKR didn't _need_ to be influenced by outside forces, but due to the difficulty of measurement, other teams chipped away against our progress unknowingly. We were able to address this by comparing versus the state when we started, but things did get a bit hand-wavey.
+My team's OKR didn't _need_ to be influenced by outside forces, but due to the difficulty of measurement, other teams chipped away against our progress unknowingly. We were able to address this by comparing versus the state when we started, but things did get a bit hand-wavey. The opportunity cost here is mostly measured in excessive hours, burnout, and low morale as your team tries to close gaps opened up by other parties.
 
-### Easier to Accomplish Over Time
+### Easier with Practice
 
-This one's pretty straightforward- it shouldn't get _harder_ to finish a goal the closer you get.
+This one's pretty straightforward- it shouldn't get _harder_ to finish a goal the closer you get. The [90-90 rule](https://en.wikipedia.org/wiki/Ninety%E2%80%93ninety_rule) applies here pretty heavily.
 
 Calories basically doesn't work as a metric because of this. The more the scheme to get exercise works, the less (in theory) I weigh; this then drives down how many calories I burn for a given distance / time. Mileage has a much better relationship here- the more I ride, the less work it is to ride that distance later.
 
-While most metrics don't explicitly get harder to do, the way you prioritize effort in a project can make things harder to do later. It's frequently tempting to start off with something easy. The problem is that most easy work isn't very useful, and it usually doesn't stretch the bounds of your solution. You miss out on complications, necessary complexity, and all sorts of other things. In practice, I find it's a lot better to start with a mid-sized item for your first step, and then immediately jump into the bigger and harder items. Once you've gotten those knocked out, you've tested the bounds of your solution space while not setting yourself up for huge changes down the road.
+While most metrics don't explicitly get harder to do, the way you prioritize effort in a project can make things harder to do later. It's frequently tempting to start off with something easy. The problem is that most easy work isn't very useful, and it usually doesn't stretch the bounds of your solution. You miss out on complications, necessary complexity, and all sorts of other things. In practice, I find it's a lot better to start with a mid-sized item for your first step, and then immediately jump into the bigger and harder items. Once you've gotten those knocked out, you've tested the bounds of your solution space while not setting yourself up for huge changes down the road. Exclusively prioritizing quick wins opens a project up to catastrophic failure and tremendous amounts of risk.
 
 ### Simple to Understand
 
@@ -99,7 +101,7 @@ I dislike complicated metrics. The more you have to twist your brain around a me
 
 Power (Watts, in the above images) is a complicated metric. It's also, according to initial googling, the _best_ metric, which is annoyingly common in my experience. I don't rightly understand all of the implications yet, which is why I'm not going to start using it as my core metrics for success, but I'll probably start evaluating it this year and see if it's reasonable to set a goal using it next year.
 
-Complicated metrics should be held at arms length. Due to having many inputs, optimizing for them can have impacts you don't want. For example: a few years back in Search, there was a metric frequently used in KRs. This metric had a ton of different inputs, which made it fairly complicated to interpret (more on that another time). Over time, there was parallel evolution from more than a dozen different teams that led to many features accidentally pushing that metric slightly more positive than it otherwise should have been.
+Complicated metrics should be held at arms length. Due to having many inputs, optimizing for them can have impacts you don't want. For example: a few years back in Search, there was a metric frequently used in KRs. This metric had a ton of different inputs, which made it fairly complicated to interpret (more on that another time). Over time, there was parallel evolution from more than a dozen different teams that led to many features accidentally pushing that metric slightly more positive than it otherwise should have been. The more complicated your metric, the more opportunity there is for subtle mistakes and days-to-weeks spent trying to figure out whether something was _actually_ bad or just _looked_ bad- and time lost actually building value.
 
 ## Conclusion
 
