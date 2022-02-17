@@ -45,6 +45,8 @@ $on-laptop:        800px;
 body {
     display: flex;
     flex-direction: column;
+    justify-content: stretch;
+    min-height: 100vh;
 }
 
 body>* {
