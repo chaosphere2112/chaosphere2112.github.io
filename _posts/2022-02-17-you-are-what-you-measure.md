@@ -18,11 +18,11 @@ Woo-hoo! Goal, achieved! OKR is at 1.0 for week 1! That sweet, sweet dopamine hi
 
 Most of those rides looked roughly like this:
 
-<img src="/docs/assets/kr-2.png" width="300" style="text-align: center; display: block;">
+<img src="/docs/assets/kr-2.jpg" width="300" style="text-align: center; display: block;">
 
 But this week, I went on a ride that looked like this:
 
-<img src="/docs/assets/kr-3.png" width="300" style="text-align: center; display: block;">
+<img src="/docs/assets/kr-3.jpg" width="300" style="text-align: center; display: block;">
 
 A little over half the distance, only 2/3rds the time, with almost twice as much elevation gain; all to produce functionally the same amount of caloric impact. If I want to maximize my caloric wins while minimizing the amount of real time I spend on the bike—which would be nice! Time is… well, not money (since I’m unemployed), but valuable—clearly the best strategy would be to do more of these shorter rides with more climbing!
 
