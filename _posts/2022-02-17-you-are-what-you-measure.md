@@ -12,17 +12,17 @@ I recently left my position at Google Search, and am enjoying the phenomenon kno
 
 My first week’s results:
 
-<img src="/docs/assets/kr-1.png" width="300" style="text-align: center; display: block;">
+<img src="/docs/assets/kr-1.png" width="300" style="margin: auto; display: block;">
 
 Woo-hoo! Goal, achieved! OKR is at 1.0 for week 1! That sweet, sweet dopamine hit of checking something off a list.
 
 Most of those rides looked roughly like this:
 
-<img src="/docs/assets/kr-2.png" width="300" style="text-align: center; display: block;">
+<img src="/docs/assets/kr-2.jpg" width="300" style="margin: auto; display: block;">
 
 But this week, I went on a ride that looked like this:
 
-<img src="/docs/assets/kr-3.png" width="300" style="text-align: center; display: block;">
+<img src="/docs/assets/kr-3.jpg" width="300" style="margin: auto; display: block;">
 
 A little over half the distance, only 2/3rds the time, with almost twice as much elevation gain; all to produce functionally the same amount of caloric impact. If I want to maximize my caloric wins while minimizing the amount of real time I spend on the bike—which would be nice! Time is… well, not money (since I’m unemployed), but valuable—clearly the best strategy would be to do more of these shorter rides with more climbing!
 
@@ -30,13 +30,13 @@ Which… is directly counter to my stated goal of getting 100 miles a week.
 
 ## The Opportunity Cost of an OKR
 
-*O*bjectives and *K*ey *R*esults are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are defined in terms of one or more Metrics (making success of your KR a measurable value).
+**O**bjectives and **K**ey **R**esults are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are ddefined in terms of one or more Metrics (making success of your KR a measurable value).
 
-The problem with most (all?) metrics is that they *usually measure more than one thing* and maximizing one metric may mean *sacrificing other metrics you care about*.
+The problem with most (all?) metrics is that they *usually measure more than one thing* and maximizing one metric may mean **sacrificing other metrics you care about**.
 
 Setting an OKR is about building an incentive structure into your organization; at Google, promotions and performance appraisals are frequently tied directly into OKRs (especially at higher levels). By picking “miles” as my metric for my KR, I’ve defined success as “biking a long distance”. That influences the routes that I choose, the frequency that I bike, and the amount of time I spend cycling.
 
-But in practice, I don’t really care about biking a long distance- I care about building healthy habits and losing weight. I have seen this exact issue multiple times; people *confuse the metric for the objective*. A change that drops the metric, but makes a meaningful improvement of the actual objective should be celebrated! In general, leadership at Google rewards that kind of behavior (they’re smart people). The problem is that by sticking a number in front of the company to optimize, you actually stifle innovation at the ground level.
+But in practice, I don’t really care about biking a long distance- I care about building healthy habits and losing weight. I have seen this exact issue multiple times; people **confuse the metric for the objective**. A change that drops the metric, but makes a meaningful improvement of the actual objective should be celebrated! In general, leadership at Google rewards that kind of behavior (they’re smart people). The problem is that by sticking a number in front of the company to optimize, you actually stifle innovation at the ground level.
 
 Feature development at Google generally starts with a cross-functional team coming up with ideas, implementing them, and testing them out via A/B experiments. If an idea results in dropping the KR metric… it usually gets left on the cutting room floor. Teams react to their incentive structure to try and align under OKRs.
 
@@ -105,7 +105,7 @@ Complicated metrics should be held at arms length. Due to having many inputs, op
 
 ## Conclusion
 
-My experience at Google has shown me the power of sticking a number in front of people for them to sprint towards. It works _really_ well for getting a lot of people with different points of view working on pushing things forward for the company. People behave rationally in response to their incentives.
+My experience has repeatedly shown me the power of sticking a number in front of people for them to sprint towards. It works _really_ well for getting a lot of people with different points of view working on pushing things forward for the company. People behave rationally in response to their incentives.
 
 Because they are at best proxies for our actual goals, metrics are somewhat noisy. When teams are pushing metrics forward, they may be having additional impact that isn't desirable; they may also be quietly squashing efforts that would have more significant impact on your objectives because they don't line up with the metrics you've selected.
 
