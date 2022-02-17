@@ -2,7 +2,7 @@
 title: Sam B. Fries
 email: samuelbfries@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Two guys walk into a bar; the first one says "Foo!", and the second says "No, I think that one was Baz."
+  Two people walk into a bar; the first one says "Foo!", and the second says "No, I think that one was Baz."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.sambfries.me" # the base hostname & protocol for your site
 github_username:  chaosphere2112
