@@ -30,9 +30,9 @@ Which… is directly counter to my stated goal of getting 100 miles a week.
 
 ## The Opportunity Cost of an OKR
 
-**O**bjectives and **K**ey **R**esults are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are ddefined in terms of one or more Metrics (making success of your KR a measurable value).
+[**O**bjectives and **K**ey **R**esults](https://en.wikipedia.org/wiki/OKR) are a methodology used to set goals for individuals, teams, and organizations. You set a high level objective (in my case, "be healthier") and break it into a set of Key Results that are ddefined in terms of one or more Metrics (making success of your KR a measurable value).
 
-The problem with most (all?) metrics is that they *usually measure more than one thing* and maximizing one metric may mean **sacrificing other metrics you care about**.
+The problem with most (all?) metrics is that they **usually measure more than one thing** and maximizing one metric may mean **sacrificing other metrics you care about**.
 
 Setting an OKR is about building an incentive structure into your organization; at Google, promotions and performance appraisals are frequently tied directly into OKRs (especially at higher levels). By picking “miles” as my metric for my KR, I’ve defined success as “biking a long distance”. That influences the routes that I choose, the frequency that I bike, and the amount of time I spend cycling.
 
