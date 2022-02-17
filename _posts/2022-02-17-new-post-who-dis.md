@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Test"
+subtitle: "Testing things out"
 date: 2022-02-17
-categories: CATEGORY-1 CATEGORY-2
+categories: test
 short_desc: "This is my testing face"
 visible: false 
 ---
