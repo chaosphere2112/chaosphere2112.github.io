@@ -5,8 +5,4 @@ title: About
 
 # Hi! I'm Sam.
 
-I'm a software engineer. I work at Lawrence Livermore National Laboratory, on [a climate visualization open source project][uv-cdat], as well as a pile of other things.
-
-I'm also a homebrewer. I like making hoppy beers, malty beers, dark beers, light beers... I really just enjoy making beer. So, yeah.
-
-[uv-cdat]: https://www.github.com/uv-cdat/uvcdat
+I'm a staff software engineer. I'm starting at Stripe! Spent the last 5 years at Google, working on building "mindblowing search experiences" (Hi, Mark!). Before that, I worked at Lawrence Livermore National Laboratory on climate science (but had a nuclear-secrets clearance for no good reason that I never got to use).
