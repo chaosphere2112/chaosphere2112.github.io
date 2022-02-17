@@ -42,8 +42,18 @@ $on-laptop:        800px;
     }
 }
 
-.page-content {
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+body>* {
+    flex-grow: 0;
+}
+
+body>.page-content {
     background-color: white;
+    flex-grow: 1;
 }
 
 
