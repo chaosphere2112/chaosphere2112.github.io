@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-# Hi! I'm Sam.
+## Hi! I'm Sam.
 
-I'm a staff software engineer. I'm starting at Stripe! Spent the last 5 years at Google, working on building "mindblowing search experiences" (Hi, Mark!). Before that, I worked at Lawrence Livermore National Laboratory on climate science (but had a nuclear-secrets clearance for no good reason that I never got to use).
+I'm (apparently) a software engineer. I will be working at Stripe as of February 28th. I started at Google Search in early 2017, was promoted a couple of times and led a team of 10 engineers. Before _that_, I spent four years at Lawrence Livermore National Laboratory working on their external website & climate science visualization and data analysis tools. It's been a bit of a mixed bag!
+
+I'm a massive data nerd. I care a lot about the ways that data is used to make decisions, and the ways that we share data with others. I also spend a lot of time thinking about organizations, incentive structures, and the ways to make stuff actually happen in big companies.
