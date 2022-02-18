@@ -73,6 +73,8 @@ I've seen Search-wide OKRs fail due to poor choice of proxy measures. By picking
 
 ### Easy to Measure
 
+<img src="https://i.gifer.com/7CJG.gif">
+
 Reliable measurements are important. Like, really important. If you have a massive margin of error due to inherent uncertainty based on your measurement approach, you really aren't doing anything useful. This is part of the problem with using multiple KRs, or aggregate metrics built up from a bunch of different components; you compound uncertainty.
 
 Mileage is a great metric from an "ease of measurement" standpoint. It's got a simple number (how far did you ride) and tracking is done by a cell phone with high accuracy (thanks, GPS!). Calories burned isn't as good, here; it is inherently an estimate. Strava's estimate of calories is based on your weight, the distance traveled, the amount of time you travel, and how much climbing you do. More accurate measurements can be had (heart rate monitors, e.g., would help a bit and are more accurate calorie predictions), but they require additional tools and are still estimates.
@@ -80,6 +82,8 @@ Mileage is a great metric from an "ease of measurement" standpoint. It's got a s
 Metrics that are hard to measure, hard to calculate, or poorly defined (leaving wiggle room for redefining success down the road) are problematic. One big challenge my team faced was our Search-level OKR was pretty hard to calculate, and no other team knew how to do so. This made it challenging to make progress on it; more on this in the next section. Using hard-to-measure metrics decreases the frequency that you can check in on your progress; the opportunity cost here is in not being able to steer the ship if things start to go awry.
 
 ### Self-Determined
+
+<a href="https://imgflip.com/i/65nfjp"><img src="https://i.imgflip.com/65nfjp.jpg" title="made at imgflip.com"/></a>
 
 It _sucks_ to have a KR that is influenced by external forces.
 
