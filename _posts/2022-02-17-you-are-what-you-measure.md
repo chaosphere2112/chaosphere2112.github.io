@@ -56,6 +56,8 @@ There's a lot going on there. Let's break those down a bit.
 
 ### Proxy Measures
 
+<div style="display: flex;"><img src="/docs/assets/kr-4.png"> <img src="/docs/assets/kr-5.png"></div>
+
 Good goals are more complicated than numbers. Things like "deliver best-in-class service to customers", or, for me, "be healthier". In practice, though, you need a bit more specificity to really fit into the OKR framework. Redefining my objective a bit, we can frame it as “build a sustainable exercise habit that makes meaningful improvements to my health and weight”. There are two key parts of this, which we'll refer back to a few times:
 
 1. Sustainable Exercise Habit
